@@ -5,6 +5,6 @@
 #运行
 在当前目录下，依次执行命令</br>
 npm install<br/>
-npm build<br/>
+npm run build<br/>
 npm start<br/>
 浏览器会自动打开页面，ps:在安装依赖的时候，redux-thunk的声明文件并不会安装在node_modules\@types\redux-thunk下(暂时不知道原因)，可手动把声明文件拷贝到该路径下。或者也可以修改代码，把用到redux-thunk的代码都去掉，本例默认使用的是静态数据。想要异步获取数据的，需要自行修改下代码。
