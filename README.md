@@ -1,8 +1,8 @@
 # react-redux-webpack
 本Demo是typescript+reactjs+redux+webpack+gooflow的一个简单实现。
-#功能介绍
+# 功能介绍
 运行成功之后，显示出来的页面右边会出现2个按钮，一个前进，一个后退，功能等同于浏览器的前进，后退，该例子是想通过redux简单实现控制流程图的每一步操作。
-#运行
+# 运行
 在当前目录下，依次执行命令</br>
 npm install<br/>
 npm run build<br/>
